@@ -81,7 +81,7 @@ if __name__ == '__main__':
 
     print(f'S1 = "{s1}"')
     print(f'Lenght S1 = {len(s1)}')
-    
+
     print(f'S2 = "{s2}"')
     print(f'Length S2 = {len(s2)}')
 
